@@ -31,4 +31,5 @@ To build a **trustless**, **secure**, and **transparent** digital voting system 
 
 ## 🧩 Project Structure
 Contract Address: 0xd9145CCE52D386f254917e481eB44e9943F39138
-![Uploading image.png…]()
+![WhatsApp Image 2025-10-28 at 1 38 01 PM](https://github.com/user-attachments/assets/52babb76-83d9-4eac-ad78-5b1c522b3868)
+
